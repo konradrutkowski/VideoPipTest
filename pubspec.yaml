@@ -32,7 +32,7 @@ dependencies:
   video_player:
     git:
       url: https://github.com/vidvi-app/flutter_video_player.git
-      ref: dae80c7
+      ref: fe6e5eb
       path: video_player
   cupertino_icons: ^1.0.5
 
