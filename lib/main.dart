@@ -2,7 +2,6 @@ import 'dart:async';
 import 'dart:io';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_fgbg/flutter_fgbg.dart';
 import 'package:video_player/video_player.dart';
 
 void main() => runApp(
@@ -21,7 +20,6 @@ class VideoApp extends StatefulWidget {
 
 class VideoAppState extends State<VideoApp> {
   late VideoPlayerController _controller;
-  late StreamSubscription<FGBGType> subscription;
   late MediaQueryData mediaQueryData;
 
   @override

@@ -69,13 +69,6 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_fgbg:
-    dependency: "direct main"
-    description:
-      name: flutter_fgbg
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.1.0"
   flutter_lints:
     dependency: "direct dev"
     description:
@@ -195,7 +188,7 @@ packages:
     dependency: "direct main"
     description:
       path: video_player
-      ref: ios-background
+      ref: "60154cb"
       resolved-ref: "60154cbc424bf5d1f78988a4f0c2e9426b18bb4a"
       url: "https://github.com/vidvi-app/flutter_video_player.git"
     source: git
