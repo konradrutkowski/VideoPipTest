@@ -188,8 +188,8 @@ packages:
     dependency: "direct main"
     description:
       path: video_player
-      ref: "60154cb"
-      resolved-ref: "60154cbc424bf5d1f78988a4f0c2e9426b18bb4a"
+      ref: ios-background
+      resolved-ref: "9454d4b38de82d222e21fa9194b871109da1003d"
       url: "https://github.com/vidvi-app/flutter_video_player.git"
     source: git
     version: "2.4.2"
@@ -197,27 +197,27 @@ packages:
     dependency: transitive
     description:
       path: video_player_android
-      ref: main
-      resolved-ref: "4305a814d00eb1e2e830a5f8529a4fdf544a6bbc"
-      url: "https://github.com/pawelch96/video_player.git"
+      ref: ios-background
+      resolved-ref: "9454d4b38de82d222e21fa9194b871109da1003d"
+      url: "https://github.com/vidvi-app/flutter_video_player.git"
     source: git
     version: "2.3.3"
   video_player_avfoundation:
     dependency: transitive
     description:
       path: video_player_avfoundation
-      ref: main
-      resolved-ref: "4305a814d00eb1e2e830a5f8529a4fdf544a6bbc"
-      url: "https://github.com/pawelch96/video_player.git"
+      ref: ios-background
+      resolved-ref: "9454d4b38de82d222e21fa9194b871109da1003d"
+      url: "https://github.com/vidvi-app/flutter_video_player.git"
     source: git
     version: "2.3.4"
   video_player_platform_interface:
     dependency: transitive
     description:
       path: video_player_platform_interface
-      ref: main
-      resolved-ref: "4305a814d00eb1e2e830a5f8529a4fdf544a6bbc"
-      url: "https://github.com/pawelch96/video_player.git"
+      ref: ios-background
+      resolved-ref: "9454d4b38de82d222e21fa9194b871109da1003d"
+      url: "https://github.com/vidvi-app/flutter_video_player.git"
     source: git
     version: "5.1.2"
 sdks:
